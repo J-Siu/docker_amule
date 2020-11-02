@@ -66,6 +66,8 @@ docker-compose up
   - start.sh
     - Use exec so start.sh can exit
     - Remove delgroup/deluser ${PUSR}
+- 11066-r0
+  - Auto update to 11066-r0
 <!--CHANGE-LOG-END-->
 
 ### License
