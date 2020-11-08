@@ -68,6 +68,8 @@ docker-compose up
     - Remove delgroup/deluser ${PUSR}
 - 11066-r0
   - Auto update to 11066-r0
+- 11066-r1
+  - Auto update to 11066-r1
 <!--CHANGE-LOG-END-->
 
 ### License
