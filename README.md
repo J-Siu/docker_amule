@@ -14,7 +14,6 @@ docker build -t jsiu/amule .
 
 Host|Inside Container|Mapping Required|Usage
 ---|---|---|---
-${DM_CNF}||Yes|dnsmasq config directory
 ${AMULE_DIR}|/amule/.amule/|yes|amule directory
 ${AMULE_UID}|PUID|yes|amule uid
 ${AMULE_GID}|PGID|yes|amule gid
