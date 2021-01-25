@@ -49,7 +49,7 @@ docker-compose up
 
 ### Repository
 
-- [docker_compose](https://github.com/J-Siu/docker_amule)
+- [docker_amule](https://github.com/J-Siu/docker_amule)
 
 ### Contributors
 
