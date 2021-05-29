@@ -71,6 +71,8 @@ docker-compose up
   - Auto update to 11066-r1
 - 11066-r2
   - Auto update to 11066-r2
+- 2.3.3-r1
+  - Auto update to 2.3.3-r1
 <!--CHANGE-LOG-END-->
 
 ### License
