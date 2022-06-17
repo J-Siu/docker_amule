@@ -94,6 +94,8 @@ docker-compose up
   - Add docker push github workflow
 - 2.3.3-r4
   - Auto update to 2.3.3-r4
+- 2.3.3-r5
+  - Auto update to 2.3.3-r5
 <!--CHANGE-LOG-END-->
 
 ### License
