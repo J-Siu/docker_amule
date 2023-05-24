@@ -98,6 +98,8 @@ docker-compose up
   - Auto update to 2.3.3-r5
 - 2.3.3-r9
   - Auto update to 2.3.3-r9
+- 2.3.3-r10
+  - Auto update to 2.3.3-r10
 <!--CHANGE-LOG-END-->
 
 ### License
