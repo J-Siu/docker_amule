@@ -1,8 +1,5 @@
 # Docker - amule [![Paypal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=HZF49NM9D35SJ&no_recurring=0&currency_code=CAD)
 
-### Table Of Content
-<!-- TOC -->
-
 - [Build](#build)
 - [Usage](#usage)
   - [Host Directories and Volume Mapping](#host-directories-and-volume-mapping)
@@ -10,10 +7,9 @@
   - [Compose](#compose)
 - [Repository](#repository)
 - [Contributors](#contributors)
-- [Change Log](#change-log)
 - [License](#license)
 
-<!-- /TOC -->
+<!--more-->
 
 ### Build
 
@@ -69,40 +65,6 @@ docker-compose up
 ### Contributors
 
 - [John Sing Dao Siu](https://github.com/J-Siu)
-
-### Change Log
-
-- 11025
-  - amule version 11025-r0
-- 11025-r0-p1
-  - Add patch postfix `-p1` to indicate container update
-  - amule version 11025-r0
-  - start.sh
-    - Use exec so start.sh can exit
-    - Remove delgroup/deluser ${PUSR}
-- 11066-r0
-  - Auto update to 11066-r0
-- 11066-r1
-  - Auto update to 11066-r1
-- 11066-r2
-  - Auto update to 11066-r2
-- 2.3.3-r1
-  - Auto update to 2.3.3-r1
-- 2.3.3-r3
-  - Auto update to 2.3.3-r3
-- 2.3.3-r3-p1
-  - Add docker push github workflow
-- 2.3.3-r4
-  - Auto update to 2.3.3-r4
-- 2.3.3-r5
-  - Auto update to 2.3.3-r5
-- 2.3.3-r9
-  - Auto update to 2.3.3-r9
-- 2.3.3-r10
-  - Auto update to 2.3.3-r10
-- 2.3.3-r13
-  - Auto update to 2.3.3-r13
-<!--CHANGE-LOG-END-->
 
 ### License
 
