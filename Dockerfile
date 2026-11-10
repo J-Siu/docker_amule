@@ -1,12 +1,12 @@
 # docker_mpd
 FROM alpine:edge
-ARG APP="amule"
+ARG PKG="amule"
 ARG VER="2.3.3-r13"
 ARG USR="https://github.com/J-Siu"
 LABEL version=${VER}
 LABEL maintainers="[John Sing Dao Siu](${USR})"
-LABEL name=${APP}
-LABEL usage="${USR}/docker_${APP}/blob/master/README.md"
+LABEL name=${PKG}
+LABEL usage="${USR}/docker_${PKG}/blob/master/README.md"
 LABEL description="Docker - amule"
 
 COPY docker-compose.yml env start.sh /
